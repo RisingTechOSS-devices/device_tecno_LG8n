@@ -26,6 +26,7 @@ PRODUCT_GMS_CLIENTID_BASE := android-transsion
 PRODUCT_BUILD_PROP_OVERRIDES += \
     DeviceName=LG8n \
     RisingMaintainer="Ren (Shirayuki39/Shirayuki428)" \
+    RisingChipset="Helio G99" \
     BuildFingerprint=TECNO/LG8n-GL/TECNO-LG8n:12/SP1A.210812.016/240531V1800:user/release-keys
 
 WITH_GMS := true
