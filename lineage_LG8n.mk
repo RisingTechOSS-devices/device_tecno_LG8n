@@ -35,6 +35,7 @@ PRODUCT_PACKAGES += \
    MarkupGoogle \
    LatinIMEGooglePrebuilt \
    Velvet \
+   AvatarPicker \
    PrebuiltDeskClockGoogle
 
 PRODUCT_NO_CAMERA := false
